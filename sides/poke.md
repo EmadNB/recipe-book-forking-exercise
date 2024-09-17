@@ -16,3 +16,5 @@
 ## Instructions
 
 Mix ingredients in a bowl.
+
+Remeber to clean up afterwards.
